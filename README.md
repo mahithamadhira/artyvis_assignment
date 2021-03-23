@@ -1,6 +1,6 @@
 # artyvis_assignment
 
-Instructions to run the project:
+Instructions to run the project: <br /><br />
   cd assign_env <br />
   source bin/activate <for linux machines> <br />
   cd artyvis_assign/ <br />
